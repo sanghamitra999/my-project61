@@ -1,0 +1,17 @@
+body{
+  text-align:center;
+  background:linear-gradient(#E1BEE7 0% #90CAF9 100%);
+  background repeat:no-repeat;
+}
+img{
+  border-radius:50%;
+  width:120px;
+}
+h1{
+  text-shadow: 2px 2px #F8BBD0
+  font-size:20px;
+}
+p{
+  font-size:18px;
+  color:#6A1B9A;
+}
